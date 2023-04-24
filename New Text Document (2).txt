@@ -1,0 +1,13 @@
+React Router: You need to be familiar with React Router, which is a popular library that allows you to manage navigation and routing in your React application.
+
+Redux: You should learn Redux, which is a state management library that makes it easy to manage and manipulate the state of your application. It helps you to avoid the pitfalls of "prop drilling," which is when you pass data down through many components.
+
+Server-side rendering: You should understand how server-side rendering works in React, as it can improve the performance of your application and make it more SEO-friendly.
+
+React Native: Although Da wedding whisper is a web-based platform, you should also learn React Native, which is a framework that allows you to build native mobile applications using React.
+
+Testing: You should be familiar with testing frameworks like Jest and Enzyme, which can help you to test your React components and ensure that they work as expected.
+
+Performance optimization: You should understand how to optimize the performance of your React application, as it can have a significant impact on the user experience.
+
+React Hooks: You should learn how to use React Hooks, which are a newer feature in React that allow you to use state and other React features in functional components.
