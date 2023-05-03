@@ -7,7 +7,7 @@ public class TypeCasting {
         // float marks=input.nextFloat(); 
          //Now for Convertion right hand side which is actually printing must be greater than the value you are entering it means that we can not convert float into int beacause float has large capacity to stoore than int also for convertion taht datypes must be camparble and for example string cannot converted into int or float
          // Now how to convert float to integar.Here the concept of typecasting come
-        //  In simple words converting bigger datype to small 
+        //  In simple words converting bigger datatype to small 
         int num=(int)(12.34f);  // Converted to 12
         System.out.println(num);
         // System.out.println(marks);
