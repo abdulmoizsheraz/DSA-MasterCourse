@@ -1,4 +1,5 @@
 //Recap:Primitive datatype:The datatype that cannot be broken down into further dattype i.e Int,char,float,double,boolean(not Array and String )
+// --->In pass by value, a copy of the variable's value is passed to a function, whereas in pass by reference, a reference to the variable in memory is passed to the function. In other words, pass by value copies the value of the variable, while pass by reference copies the address where the variable is stored in memory.
 
 
 import java.util.Scanner;

@@ -10,7 +10,7 @@ public class Human {
         this.age = age;
         this.salary = salary;
         this.height = height;
-        this.population+=1;
+        Human.population+=1;  // it will also works with this.population+=1;
         // Thing that there exist a property that is same for all human beings such as population
     }
 }
