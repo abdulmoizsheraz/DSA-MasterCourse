@@ -12,6 +12,7 @@ public class PracticePrograms {
     //    Reverse(arr, a, b);
     //    System.out.println(Arrays.toString(arr));
     // Create a Progarm that swap two numbers in array at the given index
+
     // Create a Progarm that return max number in array 
     // Create a Progarm that return max number in array between the given indexes
     }
@@ -26,8 +27,9 @@ arr[end] = temp;
         swap(arr,start,end);
         start++;
         end--;
-    }
+    }}
 
-    }
+
+    
 
 }
