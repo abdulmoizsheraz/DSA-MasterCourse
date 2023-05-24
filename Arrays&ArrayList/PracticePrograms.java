@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class PracticePrograms {
     public static void main(String[] args) {
         // Swaping two numbers

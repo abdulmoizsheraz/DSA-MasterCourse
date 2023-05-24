@@ -1,0 +1,4 @@
+Compile Time:
+Time when our source  code actually gets converted into executable code (Byte code in java ) by the compiler is known as Compile Time.
+Run Time:
+Time when our code is actually running on the system is known as Run Time.
