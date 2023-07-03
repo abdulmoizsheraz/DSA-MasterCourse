@@ -2,3 +2,6 @@ Compile Time:
 Time when our source  code actually gets converted into executable code (Byte code in java ) by the compiler is known as Compile Time.
 Run Time:
 Time when our code is actually running on the system is known as Run Time.
+Late binding: In Java refers to the process where the determination of which method to invoke is deferred until runtime, based on the actual object type rather than the reference type. This allows for dynamic method dispatch and enables polymorphism in object-oriented programming.
+Early binding in Java refers to the process where the determination of which method to invoke is done at compile time, based on the reference type. It is also known as static binding, as the method resolution is fixed and known in advance.
+OverRiding and Final keyword:Now as we know that java determine which method to run at runtime (deciding overirde method to call) and this is called late binding. But if we use final keyword with method then java will decide which method to call at compile time and this is called early binding.

@@ -1,0 +1,1 @@
+Now let assume we have two classes A and B and there exist a Class C that inherit both class A and Class B so if we called any varaible that is common in  A nd B java and we called C.thatcommonvariable java gets confused which one to execute so java doesnot support Multiple Inheritance.

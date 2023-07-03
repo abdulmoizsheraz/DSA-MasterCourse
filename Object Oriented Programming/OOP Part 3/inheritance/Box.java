@@ -1,5 +1,5 @@
 package inheritance;
-public class Box {
+  public  class Box { // if i put final here it will not allaow any other class to create inheritance
     double l;
     double w;
     double h;
@@ -14,7 +14,6 @@ this.h = -1;
 this.l = side;
 this.w = side;
 this.h = side;
-
     }
     Box(double l, double w, double h){
         super(); // refers to object class 

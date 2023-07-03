@@ -1,7 +1,7 @@
 package Polymorphism;
 
 public class Shapes  {
-    void Area(){
+    final void Area(){
         System.out.println("Area of Shape");
     }
 }
